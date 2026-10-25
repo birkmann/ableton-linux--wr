@@ -403,7 +403,7 @@ think that your problem is too small**.
 Start with the [common troubleshooting steps](TROUBLESHOOTING.md).
 
 If you're still stuck, file an issue [on GitHub](https://github.com/shibco/ableton-linux/issues/new/choose)
-or come visit us in the [Ableton on Linux Discord](https://discord.gg/VyUWk3f2j).
+or come visit us in the [Ableton on Linux Discord](https://discord.gg/aUf46aSE39).
 When you post issues in our `#issues` Discord forum, we sync your posts to GitHub, 
 to keep our knowledge from being locked away inside a hidden Discord server.
 
